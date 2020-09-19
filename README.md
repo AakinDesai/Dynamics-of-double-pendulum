@@ -6,5 +6,5 @@ The arm and the golf club are modelled like a double pendulum. A horizontal comp
 
 **Before Impact of Golf club and Golf Ball:**
 
-<img src="https://render.githubusercontent.com/render/math?math=\dot{x}">
+<img src="https://render.githubusercontent.com/render/math?math=\newcommand{\Lagr}{L}">
 
