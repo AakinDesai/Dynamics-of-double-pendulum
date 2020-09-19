@@ -6,6 +6,5 @@ The arm and the golf club are modelled like a double pendulum. A horizontal comp
 
 **Before Impact of Golf club and Golf Ball:**
 
-Lagrangian = (Linear Kinetic Energy of Arm + Rotational Kinetic Energy of Arm + Linear Kinetic Energy Golf Club + Rotational Kinetic Energy of Golf Club + Linear Kinetic Energy of Ball + Rotational Kinetic Energy of Ball - Potential Energy of Arm - Potential Energy of Golf Club - Potential Energy of Ball - Potential Energy of Spring)
-
+<img src="https://render.githubusercontent.com/render/math?math=\dot{x}>
 
